@@ -8,7 +8,7 @@ y 1634 (4 dígitos totales que formarán al potencia):
 1 ^ 4 + 6 ^ 4 + 3 ^ 4 + 4 ^ 4 = 1 + 1296 + 81 + 256 = 1634
 ```
  
-### El desafío:
+### El Desafío:
 Su código debe devolver verdadero o falso dependiendo de si el número dado es un número narcisista.
 No se requiere la comprobación de errores para cadenas de texto u otras entradas no válidas, sólo se pasarán números enteros válidos a la función.
 
