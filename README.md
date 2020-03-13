@@ -1,19 +1,16 @@
 # CodeChallenge
 
-## Why this repos ?
+## ¿Por qué estos repositorios?
 
-I create this repos for save all my progress whit some code challenge.
-I can keep my answer and wrote my thinking process. So in the future I can
-comeback here and see my past answers.
+Encontre este repo y me encanto. Creo estos repositorios para guardar todo mi progreso con algún desafío de código.
+Puedo mantener mi respuesta y escribí mi proceso de pensamiento. Podre regrese aquí y ver mi progreso por el tiempo.
 
-## Which code challenge you do ?
+## ¿Qué desafío de código haces?
+- [CodeWars] (https://www.codewars.com/)
+- [CodeFights] (https://codefights.com)
+- [FreeCodeCamps] (https://www.freecodecamp.com)
 
-- [CodeFights](https://codefights.com)
-- [FreeCodeCamps](https://www.freecodecamp.com)
-- [CodeWars](https://www.codewars.com/)
+## Organización?
 
-## Free Code Camps ?
-
-I already start the Fcc bootcamp but I have stop for take the one on [Thinkful](thinkful.com).
-After little reflection I have thinking about restart all the part about JavaScript
-for be sure all the basic is really **Assimilate**.
+El repo original esta muy bien organizado pero yo pondré un 0-9 enfrente del nombre del problema para medir el nivel de dificultad. 
+Tratare de crear videos que acompañen del mis soluciones.
